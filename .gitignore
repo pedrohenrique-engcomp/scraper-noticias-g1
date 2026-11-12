@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+# Bases de dados nao versionadas
+*.csv
+*.xlsx
+*.npy
+*.pkl
+*.bin
+*.pt
+*.sqlite3
+*.svg
